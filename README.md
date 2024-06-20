@@ -1,4 +1,4 @@
-# Unidad 5 actividad complementaria
+# Unidad 7 Actividad Complementaria 2
 ### 1) Instalación de Java y Maven
 En Windows 10/11 deberás instalar Java 20, 21 y Maven
 Nota, en las imágenes de esta guía, la version de Java es la 15.
